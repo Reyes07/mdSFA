@@ -1,0 +1,28 @@
+* {
+
+	margin: 0;
+
+	padding: 0;
+}
+
+#acolapsar{
+
+    padding: 20px;
+
+    background:#11CC87;
+
+    font-size: 16px;
+
+
+
+}
+
+#contenido{
+
+    margin-top: 25px;
+	/**max-height: 300px;
+	max-width: 600px;**/
+
+
+
+}
